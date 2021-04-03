@@ -9,8 +9,6 @@ Currently, I am a full stack developer,  able to work with JavaScript and many t
 ## My passion
 In my free time, I enjoy rock climbing, hiking and any other outdoor sport, making a balance between my professional and personal life. Additionally I strongly believe that traveling can open your mind and help you out to undertanding other societies, therefore I love traveling when its possible.
 
-<h2 align="center">
-  # ![BG](https://repository-images.githubusercontent.com/203801810/91a1eb80-c50f-11e9-9ab2-39928bd90d67)
-</h2>
 
- 
+## Currently
+I am looking for new proffesional oportunities as a web developer, willing to learn more and move to any where if its needed, if it sounds good for you, Do not hesitate on checking out my linkeding or some of my projects in github, you can also contact me if you have any questions.
