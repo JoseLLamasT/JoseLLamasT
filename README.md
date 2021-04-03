@@ -18,6 +18,7 @@ I am looking for new proffesional oportunities as a web developer, willing to le
 
 You can find me on [![LinkedIn][1.2]][1], or by [![email][3.2]][3].
 
+<!-- Links to your social media accounts -->
 
 [1]: www.linkedin.com/in/Jose-Lamas
 [2]: jllt1992@gmail.com 
