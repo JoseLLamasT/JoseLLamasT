@@ -17,3 +17,5 @@ I am looking for new proffesional oportunities as a web developer, willing to le
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jose-lamas/)
 &nbsp;
+
+<a href="jllt1992@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
