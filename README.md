@@ -14,6 +14,9 @@ In my free time, I enjoy rock climbing, hiking and any other outdoor sport, maki
 I am looking for new proffesional oportunities as a web developer, willing to learn more and move to any where if its needed, if it sounds good for you, Do not hesitate on checking out my linkeding or some of my projects in github, you can also contact me if you have any questions.
 
 
-##Linkedin : www.linkedin.com/in/Jose-Lamas
-##Mail : jllt1992@gmail.com
+* <a href="www.linkedin.com/in/Jose-Lamas">  Linkedin :  /</a>
+
+
+
+ Mail : jllt1992@gmail.com
 
