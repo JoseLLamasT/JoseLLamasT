@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, welcome to my repo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # Who I Am
 
@@ -16,7 +16,9 @@ In my free time, I enjoy rock climbing, hiking and any other outdoor sport, maki
 I am looking for new proffesional oportunities as a web developer, willing to learn more and move to any where if its needed, if it sounds good for you, Do not hesitate on checking out my linkeding or some of my projects in github, you can also contact me if you have any questions.
 
 
- Linkedin : www.linkedin.com/in/Jose-Lamas
+You can find me on [![LinkedIn][1.2]][1], or by [![email][3.2]][3].
 
- Mail : jllt1992@gmail.com
+
+[1]: www.linkedin.com/in/Jose-Lamas
+[2]: jllt1992@gmail.com 
 
