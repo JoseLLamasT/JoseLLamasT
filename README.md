@@ -1,4 +1,6 @@
-﻿# Who I Am
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+# Who I Am
 
 
 I am feeling a deep love for developing new technologies or goods focus on improve our life quality. Therefore,  I studied Mechanical Engineering, which I love. While I was studying I had the opportunity to support friends building 3D printers,   robots, mechanical arms, automatic fruit dehydrators and so on. However, I worked just on the mechanical system. Since that time I was wondering how a machine could do what we want by writing some lines of code, so I decided to take the next step and learn how to code as well.
@@ -14,9 +16,7 @@ In my free time, I enjoy rock climbing, hiking and any other outdoor sport, maki
 I am looking for new proffesional oportunities as a web developer, willing to learn more and move to any where if its needed, if it sounds good for you, Do not hesitate on checking out my linkeding or some of my projects in github, you can also contact me if you have any questions.
 
 
-* <a href="www.linkedin.com/in/Jose-Lamas">  Linkedin :  /</a>
-
-
+ Linkedin : www.linkedin.com/in/Jose-Lamas
 
  Mail : jllt1992@gmail.com
 
