@@ -36,7 +36,7 @@ I am looking for new proffesional oportunities as a web developer, willing to le
 
 
 
-<img src="https://www.sistemasumgcoban.com/wp-content/uploads/2018/05/postgresql-logo.png" width="80px"  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="80px">  <img src="https://cdn.iconscout.com/icon/free/png-256/sequelize-1-1175002.png" width="80px">  <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="80px">  <img src="https://niralar.com/wp-content/uploads/2018/07/mongoose.jpg" width="80px">
+<img src="https://www.sistemasumgcoban.com/wp-content/uploads/2018/05/postgresql-logo.png" width="80px">  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="80px">  <img src="https://cdn.iconscout.com/icon/free/png-256/sequelize-1-1175002.png" width="80px">  <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="80px">  <img src="https://niralar.com/wp-content/uploads/2018/07/mongoose.jpg" width="80px">
 
 <img src="" width="80px">
     
