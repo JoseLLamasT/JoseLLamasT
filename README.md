@@ -19,3 +19,7 @@ I am looking for new proffesional oportunities as a web developer, willing to le
 &nbsp;
 
 <a href="jllt1992@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> jllt1992@gmail.com</a>
+
+
+###some thechnologies that I can work with:
+![alt text](http://url/to/img.png)
