@@ -22,4 +22,5 @@ I am looking for new proffesional oportunities as a web developer, willing to le
 
 
 ###some thechnologies that I can work with:
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="30px">
+
