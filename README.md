@@ -23,11 +23,13 @@ I am looking for new proffesional oportunities as a web developer, willing to le
 
 ### some thechnologies that I can work with: 
 
- <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="60px"> <img src="https://images.vexels.com/media/users/3/166382/isolated/preview/1ad81b62ad0ec81a584bc22016fd016f-lenguaje-de-programaci-oacute-n-html-plano-by-vexels.png" width="60px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60px">
+ <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="60px"> <img src="https://images.vexels.com/media/users/3/166382/isolated/preview/1ad81b62ad0ec81a584bc22016fd016f-lenguaje-de-programaci-oacute-n-html-plano-by-vexels.png" width="60px">  <img src="https://www.google.com/search?q=css%20logo%20png&tbm=isch&hl=es-419&sa=X&ved=0CB0QtI8BKABqFwoTCKjSts-R5O8CFQAAAAAdAAAAABAG&biw=1905&bih=855#imgrc=rMGQSLV-OuuyHM" width="60px">
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="40px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="40px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px">
  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="40px">
+  
+
 
 
 
