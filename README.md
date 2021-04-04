@@ -32,8 +32,11 @@ I am looking for new proffesional oportunities as a web developer, willing to le
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="60px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="60px">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="60px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="60px">
-    <img src="https://img2.pngio.com/a-guide-to-nodejs-e-commerce-w-koajs-tutorial-snipcart-koa-png-921_542.png" width="60px">  
+    <img src="https://www.thinktanker.io/wp-content/uploads/2019/12/Koa-nodejs-logo-300x300.png" width="60px">
+      <img src="https://img2.pngio.com/a-guide-to-nodejs-e-commerce-w-koajs-tutorial-snipcart-koa-png-921_542.png" width="60px">  
+    
+        <img src="" width="60px">
+            <img src="" width="60px">
     
   
 
