@@ -21,6 +21,15 @@ I am looking for new proffesional oportunities as a web developer, willing to le
 <a href="jllt1992@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> jllt1992@gmail.com</a>
 
 
-###some thechnologies that I can work with:
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="30px">
+### some thechnologies that I can work with: 
+
+ <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="40px">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7DHGW_YVtvUNe50rCNp2NKfLVxRUsE08aBA&usqp=CAU" width="40px">
+ <img src="http://cdn.onlinewebfonts.com/svg/img_4048.png" width="40px">
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="40px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px">
+ 
+
+
 
