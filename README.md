@@ -20,7 +20,7 @@ I am looking for new professional opportunities as a web developer, willing to l
 
 
 
-<a > < img  target =”_blank” href="jllt_1992@gmail.com" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a  target =”_blank” href="jllt1992@gmail.com"> < img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 ### some thechnologies that I can work with: 
 
