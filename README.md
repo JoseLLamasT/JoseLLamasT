@@ -18,9 +18,8 @@ I am looking for new professional opportunities as a web developer, willing to l
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jose-lamas/)
 &nbsp;
 
-
-
 <a href="jllt1992@gmail.com" target ="_blank"> <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<img src="https://raw.githubusercontent.com/timche/gmail-desktop/d2f8efa6527c3f2bd17808a4573c47234f110b0f/media/icon.svg">
 
 ### some thechnologies that I can work with: 
 
