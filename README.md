@@ -19,7 +19,8 @@ I am looking for new professional opportunities as a web developer, willing to l
 &nbsp;
 
 <a target =”_blank” href="jllt1992@gmail.com"></a>
-<a href=mailto:<nowiki>jllt1992@gmail.com?subject="subject text"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href=mailto:"jllt1992@gmail.com?subject="subject text"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 ### some thechnologies that I can work with: 
 
 
